@@ -5,11 +5,6 @@ import "./globals.css";
 const spaceGrotesk = localFont({
   src:[
     {
-      path:'./fonts/SpaceGrotesk-Light.ttf',
-      weight:'800',
-      style:'normal'
-    },
-    {
       path:'./fonts/SpaceGrotesk-Bold.ttf',
       weight:'700',
       style:'normal'
@@ -22,6 +17,11 @@ const spaceGrotesk = localFont({
     {
       path:'./fonts/SpaceGrotesk-Medium.ttf',
       weight:'500',
+      style:'normal'
+    },
+    {
+      path:'./fonts/SpaceGrotesk-Light.ttf',
+      weight:'300',
       style:'normal'
     },
     {
